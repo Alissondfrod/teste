@@ -1,1 +1,5 @@
 aqui tem um codigo de login
+adicionado nome
+idade
+genero 
+
